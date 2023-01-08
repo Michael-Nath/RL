@@ -1,0 +1,11 @@
+cloudpickle==2.2.0
+gymnasium==0.27.0
+gymnasium-notices==0.0.1
+importlib-metadata==6.0.0
+jax-jumpy==0.2.0
+numpy==1.24.1
+pygame==2.1.3.dev8
+Shimmy==0.2.0
+typing==3.7.4.3
+typing_extensions==4.4.0
+zipp==3.11.0
